@@ -9,5 +9,10 @@
 ### `npm run build`
 Сборка приложения
 
+## Команды и возможности бота
+### "Чайный, погода %city_name%
+Получение информации о текущей погоде\
+в указанном городе
+
 Автор: https://github.com/yazmeyaa
 Telegram: @future_undefined
